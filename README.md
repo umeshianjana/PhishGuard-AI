@@ -27,15 +27,15 @@ PhishGuard AI is an ultra-fast, real-time threat evaluation agent designed to an
 ## ⚙️ Setup & Installation Instructions
 
 ### 1. Clone the Repository
-'''git clone''' https://github.com/umeshianjana/PhishGuard-AI.git 
+```git clone``` https://github.com/umeshianjana/PhishGuard-AI.git 
 
 cd PhishGuard-AI
 
 ### 2. Install Dependencies
-'''pip install''' -r requirements.txt
+```pip install``` -r requirements.txt
 
 ### 3. Configure Environment Variables
-Create a '''.env''' file in the root directory and add your API keys:
+Create a ```.env``` file in the root directory and add your API keys:
 GROQ_API_KEY=your_groq_api_key_here
 PROJECTAAL_API_KEY=your_projectaal_api_key_here
 
